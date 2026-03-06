@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @email2alx (Alex Abraham)
+- 👋 Hi, I’m @itsalexabraham (Alex Abraham)
 - 👀 On to JavaScript, TypeScript, GoLang, Docker, Nginx.
 - 📫 Reach me on `email2alx@gmail.com`.
 
