@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsalexabm (Alex Abraham)
+- 👋 Hi, I’m @iamalexabm (Alex Abraham)
 - 👀 On to JavaScript, TypeScript, GoLang, Docker, Nginx.
 
 <!---
