@@ -25,7 +25,7 @@ I am a **Software Engineer** based in **Berlin** with over **10+ years of experi
 
 #### 📫 Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/email2alx](https://linkedin.com/in/iamalexabm)
+* **LinkedIn:** [linkedin.com/in/iamalexabm](https://linkedin.com/in/iamalexabm)
 * **Email:** [email2alx@gmail.com](mailto:email2alx@gmail.com)
 * **Location:** Berlin, Germany 🇩🇪
 
